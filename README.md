@@ -32,7 +32,7 @@
 <h3>With love 💙</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/jlenon7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jlenon7?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/secjs/core.svg?style=social&label=Star&maxAge=2592000)](https://github.com/secjs/core/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/jlenon7/jlenon7.svg?style=social&label=Star&maxAge=2592000)](https://github.com/secjs/core/stargazers/)
 
 ### All my organizations and skills
 
