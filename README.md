@@ -146,7 +146,10 @@
       <img align="center" src="https://avatars0.githubusercontent.com/u/75734433?s=200&v=4" alt="TxsSec" height="30" width="30" />
   </a>
   <a href="https://github.com/makeproteam" target="_blank">
-      <img align="center" src="https://avatars2.githubusercontent.com/u/28454051?s=200&v=4" alt="TxsSec" height="30" width="30" />
+      <img align="center" src="https://avatars2.githubusercontent.com/u/28454051?s=200&v=4" alt="Makeproteam" height="30" width="30" />
+  </a>
+  <a href="https://github.com/Dale-gg" target="_blank">
+      <img align="center" src="https://avatars3.githubusercontent.com/u/64610249?s=200&v=4" alt="Dale.gg" height="30" width="30" />
   </a>
 </details>
 
