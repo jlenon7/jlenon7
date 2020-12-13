@@ -32,7 +32,7 @@
 <h3>With love 💙</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/jlenon7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jlenon7?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/jlenon7/jlenon7.svg?style=social&label=Star&maxAge=2592000)](https://github.com/secjs/core/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/jlenon7/jlenon7.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jlenon7/jlenon7/stargazers/)
 
 <details>
   <summary>:zap: My Skills</summary>
@@ -144,6 +144,9 @@
   </a>
   <a href="https://github.com/txssec" target="_blank">
       <img align="center" src="https://avatars0.githubusercontent.com/u/75734433?s=200&v=4" alt="TxsSec" height="30" width="30" />
+  </a>
+  <a href="https://github.com/makeproteam" target="_blank">
+      <img align="center" src="https://avatars2.githubusercontent.com/u/28454051?s=200&v=4" alt="TxsSec" height="30" width="30" />
   </a>
 </details>
 
