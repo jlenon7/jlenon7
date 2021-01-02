@@ -1,4 +1,4 @@
-# jlenon7/jlenon7 👨‍🎨
+# jlenon7 👨‍🎨
 
 > Hi! my name is João Lenon and I have been solving problems and pain of people for three years!
 > My love for programming is in writing artistic codes, easy to understand and with replaceable layers!
