@@ -1,6 +1,6 @@
 # jlenon7 👨‍🎨
 
-> Hi! my name is João Lenon and I have been solving problems and pain of people for four years!
+> Hi! my name is João Lenon and I have been solving problems for four years!
 > My love for programming is in writing artistic codes, easy to understand and with replaceable layers!
 
 > I'm the creator of Athenna framework, the plug and play Node.js framework that focus in many types of application development, such as Http servers, workers, CLI's and more!
