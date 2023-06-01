@@ -7,7 +7,7 @@ with replaceable layers!
 I'm the creator of [Athenna Framework](https://athenna.io/docs/introduction/welcome), 
 the plug & play Node.js framework that focuses on giving a very reliable foundation 
 for the developer to build many types of different applications, perfect for working 
-with microservices architecture. Epect an enjoyable, beautiful, peaceful and productive 
+with microservices architecture. Expect an enjoyable, beautiful, peaceful and productive 
 experience working with Athenna. [Check out the documentation! 📚](https://athenna.io/docs/introduction/welcome)
 
 I'm also a contributor to the Node.js project and member of the Node.js ESM loaders team.
