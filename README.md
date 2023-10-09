@@ -1,6 +1,6 @@
 # Hey, I'm Lenon 👨‍🎨
 
-Hi! my name is João Lenon and I have been solving problems for five years. 
+Hi! my name is João Lenon and I have been solving problems for six years. 
 My love for programming is in writing artistic codes, easy to understand and 
 with replaceable layers! 
 
