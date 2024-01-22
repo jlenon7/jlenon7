@@ -34,6 +34,5 @@ I'm also a contributor to the Node.js project and member of the Node.js ESM load
 
 <h3>With love 💜</h3>
 
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=jlenon7.visitor-badge)](https://github.com/jlenon7)
 [![GitHub followers](https://img.shields.io/github/followers/jlenon7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jlenon7?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/jlenon7/jlenon7.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jlenon7/jlenon7/stargazers/)
